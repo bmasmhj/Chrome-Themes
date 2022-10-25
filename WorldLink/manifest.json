@@ -1,0 +1,35 @@
+{
+  "version": "1.0",
+  "name": "WorldLink Theme",
+  "theme": {
+    "images" : {
+      "theme_ntp_background" : "theme_ntp_background.jpg",
+      "theme_ntp_attribution" : "attribution.png"
+
+    },
+    "colors" : {
+      "frame":[0, 111, 158],
+      "toolbar":[0, 88, 125],
+      
+      "tab_text": [255, 255, 255],
+      "tab_background_text":[232, 232, 232],
+      "bookmark_text":[232, 232, 232],
+      "ntp_background":[255,255,255],
+      "ntp_text" :[232, 232, 232],
+      "ntp_link":[6,55,116],
+     "toolbar_button_icon" :  [232, 232, 232],
+
+     "button_background" :  [64,142,201]
+
+    },
+    "tints" : {
+      "buttons" : [0.33, 0.5, 0.47]
+    },
+    "properties" : {
+      "ntp_background_alignment" : "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  },
+"manifest_version": 3
+
+}

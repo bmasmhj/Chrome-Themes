@@ -1,0 +1,32 @@
+{
+    "name":"Worldlink Foliage",
+    "version":"1.0",
+    "description":"",
+    "manifest_version":2,
+    "theme":{
+        "images":{
+        "theme_frame":"theme_frame.png",
+        "theme_toolbar":"theme_toolbar.png",
+        "theme_ntp_background":"theme_ntp_background.jpg"
+        },
+        "colors":{
+            "frame":[207,184,23],
+            "toolbar":[253,184,23],
+            "tab_text":[0,0,0],
+            "tab_background_text":[0,0,0],
+            "bookmark_text":[0,0,0],
+            "ntp_background":[255,255,255],
+            "ntp_link":[6,55,116],
+            "button_background":[207,138,69,1]
+        },
+        "tints":{
+                "buttons":[0.07,1,0.23]
+        },
+        "properties":{
+            "ntp_background_alignment":"bottom",
+            "ntp_background_repeat":"no-repeat"
+          }
+      }
+  }
+
+  
